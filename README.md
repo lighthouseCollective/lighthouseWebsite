@@ -1,6 +1,6 @@
 # lighthouseWebsite
 ## Business website for Lighthouse Collective
-## Hosted @ [lighthousecollective.net](lighthousecollective.net), from github page @ [lighthousecollective.github.io](lighthousecollective.github.io)
+## Hosted @ [lighthousecollective.net](https://lighthousecollective.net), from github page @ [lighthousecollective.github.io](https://lighthousecollective.github.io)
 
 **Version: 0.1.1**
 
