@@ -60,13 +60,14 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 * fixed contactForm
 * enabled SSL
 * linked analytics
+* pushed 'team' section to archive
 * **MILESTONE: *Official Launch***
 
 #### v0.0.2
 * trimmed fat
 * added favIcon
 * added portfolio pieces
-* * removed navBar (buggy, will open an 'issue')
+* removed navBar
 * removed button functionality of subtitle
 * finished customizing
 
