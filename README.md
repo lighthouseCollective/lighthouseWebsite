@@ -13,64 +13,42 @@
 
 
 ### Structure of the Site
-This single-page website is designed to quickly educate viewers about the Lighthouse Collective brand, and demonstrate how our branding and/or web development will benefit their business. To serve this purpose, we have created a one-page vertical scroll through webpage that includes a contactFrom intended to generate leads from customer interest.
+The site is going to be focused on the individuals that make up the collective - their profiles, links to portfolios, rates, and some details on what they can do. There will be some standard across all of these, but we want to capture the creativity and individualism of all the personalitis in the collective.
 
-At any time, the viewer can return to the top of the page by clicking the logo in the top left of the screen, on the navBar. The user can also click the "Let's Chat" button on the right side of the navBar to be quickly pushed to the contactForm. Because the navBar follows the user down the page, it is very easy and quick to navigate to the varying sections of the site.
+The focus here will not be to land gigs as much as it will be to tap into solid team members with current tasks in mind. Ideally, the platform will flourish into a sort of "digital subcontractor hub," where any of us can jump on and get an hour or two (or more) from someone in the collective that has domain-specific knowledge of the task at hand.
 
 #### Layout
 * Landing
-* Features
-* Screenshots
-* Subscribe
+* Approach
+* Members
+* Most Notable Projects
+* Contact
+  - Hire
+  - Join the Collective
 
 #### Features
-* linked NavBar
-* contact form
-* mailTo link
-* quickCall link
-* social media links
+* lighthouse map
+* open projects
+* contact forms
+  - hire
+  - join
 * Lighthouse Collective color palette, used throughout site:
 	- ![#DA9852](https://placehold.it/15/DA9852/000000?text=+) `#DA9852`
   - ![#D8D8D8](https://placehold.it/15/D8D8D8/000000?text=+) `#D8D8D8`
   - ![#959CB1](https://placehold.it/15/959CB1/000000?text=+) `#959CB1`
   - ![#4D5D6A](https://placehold.it/15/4D5D6A/000000?text=+) `#4D5D6A`
-* detailed portfolio pop-ups
 
 ### Planning
-
-- [x] bootstrap
-- [x] link subscription form to backend
-- [x] copy & content
-- [x] set up portfolio
-- [x] link Google Analytics
-- [x] **PRE-FLIGHT CHECK**
-- [x] **Initial Launch:** _07.01.20_
-- [ ] set up google recaptcha
+- [x] brand
+- [ ] wireframe site
+- [ ] bootstrap
+- [ ] copy & content
+- [ ] set up portfolio
+- [ ] link Google Analytics
+- [ ] **PRE-FLIGHT CHECK**
 
 ### Updates
-#### v0.1.1
-* added fastPark portfolio piece 
-* changed size of logos in portfolio
-* updated mailTo link
-* attempted recaptcha implementation
-* added smartForm integration
-  * reverted back to formSpree
-
-#### v0.1.0
-* fixed contactForm
-* enabled SSL
-* linked analytics
-* pushed 'team' section to archive
-* **MILESTONE: *Official Launch***
-
-#### v0.0.2
-* trimmed fat
-* added favIcon
-* added portfolio pieces
-* removed navBar
-* removed button functionality of subtitle
-* finished customizing
-
 #### v0.0.1
-* bootstrapped website
+* removed old website
+* began outlining new platform and focus of LC
 * **MILESTONE: *Initial Commit***
